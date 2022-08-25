@@ -1,8 +1,7 @@
-Fall 2021, CMSE 201: Introduction to Python and Modules
+# CMSE 202 Group Final Project
 
-Modules Covered: matplotlib, pandas, numpy, math, seaborn
+Spring 2022, CMSE 202: Computational Modeling Tools and Techniques
 
-Skills: mathematical models, data cleaning, data visualization
+Packages Covered: nltk, statsmodels, sklearn, scipy
 
-Final project from CMSE 202: Computational Modeling Tools and Techniques
-
+Skills Introduced: SVM, PCA, Perceptron Model, Neural Networks, Agent Based Modeling, Graph Theory, Regression, Writing Classes, Object Oriented Programming
